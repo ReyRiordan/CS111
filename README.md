@@ -1,8 +1,8 @@
 # CS111
 
-All code for CS111 at Rutgers University
-Rey Riordan
-Fall 2022
+All code for CS111 at Rutgers University  
+Rey Riordan  
+Fall 2022  
 
 ## Assignments
 
